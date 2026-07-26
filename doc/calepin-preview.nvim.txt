@@ -1,0 +1,16 @@
+*calepin-preview.nvim.txt* Live previewing calepin documents.
+
+Author: nats9284 <tj2003na@gmail.com>
+
+
+==============================================================================
+ 1. Usage
+
+*:CalepinWatch*
+
+  This commands triggers Calepin to watch.
+
+*:CalepinWatchStop*
+
+  Watching stops.
+
