@@ -14,7 +14,7 @@ function M.setup(opts)
           Watch_pid = nil
         end
       )
-      print(vim.fn.printf('Calepin is watching %s in the background.', path))
+      print(vim.fn.printf('calepin is watching %s in the background.', path))
       Watch_pid = Calepin_pid
     end
   end, {})

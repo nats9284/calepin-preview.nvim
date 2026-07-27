@@ -6,9 +6,9 @@ Author: nats9284 <tj2003na@gmail.com>
 ==============================================================================
  1. Usage
 
-*:CalepinWatch*
+*:Calepin*
   This command triggers Calepin to watch.
 
-*:CalepinWatchStop*
+*:CalepinStop*
   Watching stops.
 
